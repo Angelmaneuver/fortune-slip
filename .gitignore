@@ -23,3 +23,5 @@ go.work
 # Temporary directory
 temporary/*
 !temporary/.gitkeep
+
+dist/
