@@ -18,5 +18,5 @@ GLOBAL OPTIONS:
 ## How to draw a fortune
 Access the following URL.
 
-1.http://\<Fortune Slip run machine IP address\>:\<Specified port number or default value 80\>
-1.ws://\<Fortune Slip run machine IP address\>:\<Specified port number or default value 80\>/ws
+1. http://\<Fortune Slip run machine IP address\>:\<Specified port number or default value 80\>
+1. ws://\<Fortune Slip run machine IP address\>:\<Specified port number or default value 80\>/ws
