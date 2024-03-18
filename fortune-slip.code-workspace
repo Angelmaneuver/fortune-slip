@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "Fortune Slip",
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.insertSpaces": false,
+		"editor.detectIndentation": false,
+		"files.insertFinalNewline": true,
+		"files.trimFinalNewlines": true,
+	},
+	"extensions": {
+		"recommendations": [
+			"mosapride.zenkaku",
+			"golang.go",
+		]
+	}
+}
